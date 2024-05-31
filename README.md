@@ -1,2 +1,2 @@
 # Chess_project
-it is a 2D chess Game
+An AI chess Stimulator.
